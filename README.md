@@ -4,7 +4,7 @@
   </a>
   <a href="https://gitmoji.carloscuesta.me">
 	  <img src="static/gitmoji.gif" alt="gitmoji" />
-	</a>
+  </a>
 </p>
 <p align="center">
 	<a href="https://github.com/ai0/alfred-gitmoji-workflow/releases">
@@ -53,6 +53,10 @@ Basic configuration is performed in the configuration sheet:
 | `GITMOJI_COPY_TYPE` | [code\|emoji] | The output type of gitmoji, `code` will return pure text like `:fire:`, and `emoji` will return unicode emoji.  |
 
 ## Screenshot
+
+<p align="center">
+  <img src="static/screenshot.gif" alt="Screenshot" />
+</p>
 
 ## License
 
