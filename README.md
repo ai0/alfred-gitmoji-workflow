@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/github/downloads/ai0/alfred-gitmoji-workflow/latest/total.svg?style=flat-square"
 			 alt="Github Releases">
 	</a>
-	<a href="">
+	<a href="https://i.mit-license.org/">
 		<img src="https://img.shields.io/github/license/ai0/alfred-gitmoji-workflow.svg?style=flat-square"
 			 alt="License">
 	</a>
@@ -60,5 +60,5 @@ Basic configuration is performed in the configuration sheet:
 
 ## License
 
-MIT License
+[MIT License](https://i.mit-license.org/)
 
