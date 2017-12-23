@@ -29,7 +29,7 @@ This simple [Alfred](https://www.alfredapp.com/) workflow lets you quick search 
 
 ### Packal
 
-[Link](http://www.packal.org/)
+[Link](http://www.packal.org/workflow/gitmoji)
 
 ## Usage
 
